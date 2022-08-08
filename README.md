@@ -1,6 +1,6 @@
 # :battery: [Predicting electricity demand using Machine Learning](https://openclassrooms.com/fr/paths/65/projects/146/assignment)
 
-### :point_right:[Notebook](https://github.com/Aciago/Sales_analysis/blob/main/P4_v6.ipynb):point_left:
+### :point_right:[Notebook](https://github.com/Aciago/Electricity_demand_prediction/blob/main/P9_01_code.ipynb):point_left:
 
 ### :muscle: Learning goals:
 - Time Series analysis and predictions
