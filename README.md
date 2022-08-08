@@ -1,4 +1,4 @@
-# :battery: [Predicting electricity demand using Machine Learning](https://openclassrooms.com/fr/paths/65/projects/146/assignment)
+# :battery: [Predicting electricity demand using Machine Learning](https://openclassrooms.com/fr/paths/65/projects/150/assignment)
 
 ### :point_right:[Notebook](https://github.com/Aciago/Electricity_demand_prediction/blob/main/P9_01_code.ipynb):point_left:
 
